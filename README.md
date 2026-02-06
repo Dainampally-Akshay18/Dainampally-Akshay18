@@ -15,6 +15,17 @@ I build AI systems that reason, not just respond.
 
 ---
 
+## 🏢 Professional Background
+
+**Microsoft**
+
+- Worked in a large enterprise engineering environment  
+- Focus on cloud, AI workflows, and production-grade development  
+- Exposure to Agile delivery and collaborative GitHub practices  
+- Emphasis on scalability, security, and code quality
+
+> All implementation details remain confidential as per organizational policy.
+
 ## 🚀 Flagship Projects
 
 ### ⚖️ AccordAI — AI Legal Intelligence  
@@ -92,9 +103,9 @@ Discussions     █████████████░░░░░ 70%
 
 ## 📊 Activity
 
-<img src="https://github-readme-stats.vercel.app/api?username=Dainampally-Akshay18&show_icons=true&theme=radical&cache_seconds=1800" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Dainampally-Akshay18&theme=radical" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Dainampally-Akshay18&theme=radical" />
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Dainampally-Akshay18&theme=radical&cache_seconds=1800" />
 
 ---
 
