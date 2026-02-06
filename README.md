@@ -92,9 +92,9 @@ Discussions     █████████████░░░░░ 70%
 
 ## 📊 Activity
 
-![stats](https://github-readme-stats.vercel.app/api?username=Dainampally-Akshay18&show_icons=true)
+<img src="https://github-readme-stats.vercel.app/api?username=Dainampally-Akshay18&show_icons=true&theme=radical&cache_seconds=1800" />
 
-![streak](https://github-readme-streak-stats.herokuapp.com/?user=Dainampally-Akshay18)
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Dainampally-Akshay18&theme=radical&cache_seconds=1800" />
 
 ---
 
